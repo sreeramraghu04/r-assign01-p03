@@ -26,4 +26,4 @@ A responsive React web page that displays product cards using data from the [Fak
 
 ## Demo Link
 
-[live Demo]()
+[live Demo](https://fakestoreapiassign01p03.netlify.app/)
